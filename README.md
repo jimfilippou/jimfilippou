@@ -1,12 +1,12 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Dimitrios Filippou and I'm a software developer/DevOps engineer. I'm from Greece, living in Athens and currently working at Dafabet. You can find me on  [![LinkedIn][3.2]][3].
+I'm Dimitrios, a software developer/DevOps engineer based in Athens GR, currently working at Dafabet
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [jimfilippou.github.io](https://jimfilippou.github.io/) as well as on [Dev.to](https://dev.to/jimfilippou).
+Apart from coding, I also maintain a blog - you can find my articles here [jimfilippou.github.io](https://jimfilippou.github.io/) as well as here [Dev.to](https://dev.to/jimfilippou).
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools I use
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
