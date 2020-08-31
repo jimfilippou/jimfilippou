@@ -1,6 +1,6 @@
 # Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Dimitrios, a software developer/DevOps engineer based in Athens GR, currently working at [Dafabet](https://www.dafabet.com/)
+I'm Dimitrios, a software/DevOps engineer based in Athens GR, currently working at [Dafabet](https://www.dafabet.com/)
 
 ## &#x270d; Blog & Writing
 
