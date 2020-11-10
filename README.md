@@ -2,6 +2,6 @@
 
 I'm Dimitrios, a Software/DevOps Engineer based in Greece, currently working at [Asian Logic](https://asianlogic.com/).
 
-I am passionate about distributed systems, cloud automation pipelines & containerised workflows. I also like web APIs, software architecture and UI-UX. 
+I am interested in distributed systems, cloud automation & containerised workflows. Sometimes I also do web APIs, software architecture and UI-UX.
 
-Always interested in learning new technologies
+Always interested in learning new stuff.
