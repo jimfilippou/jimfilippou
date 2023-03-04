@@ -1,3 +1,3 @@
-I'm Dimitrios (Dimi for short), a Software/DevOps engineer based in Athens, Greece 🇬
+I'm Dimitrios (Dimi for short), a Software/DevOps engineer based in Athens, Greece 🇬🇷
 
-<sub><sup>Currently fulfilling military obligations 🇬🇷</sup></sub>
+<sub>Currently fulfilling military obligations 🇬🇷</sub>
