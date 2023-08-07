@@ -1,4 +1,4 @@
-<h4>Hi! I'm Dimitrios, a software engineer <b>passionate</b> about web development</h3>
+<h4>Hi! I'm Dimitrios, a software engineer <b>passionate</b> about web development and devops</h3>
 
 <h5>
 <a href="https://twitter.com/thefrozenvortex">Twitter</a> /
@@ -9,11 +9,11 @@
   
 ##### Work:
 
-- 🏡 Working remotely from Athens, Greece
+- 🏡 Working for https://sportion.net remotely from Athens, Greece 
 - 🧑‍💼 Mostly using **React**, **Next.js**, **TypeScript**
 
  
  ##### Present:
-- 💻 Learning elixir
-- 🤸 Getting back to acrobatic gymnastics
+- 💻 Learning practical uses of AI
+- 🏖️ Trying to book summer holidays
 - 🚀 Building <a href="https://i-space.gr" target="__blank">https://i-space.gr</a>
