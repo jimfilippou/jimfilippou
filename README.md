@@ -9,7 +9,7 @@
   
 ##### Work:
 
-- 🏡 Working for https://sportion.net remotely from Athens, Greece 
+- 🏡 Working for https://sportserve.co remotely from Athens, Greece 
 - 🧑‍💼 Mostly using **React**, **Next.js**, **TypeScript**
 
  
