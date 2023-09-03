@@ -15,5 +15,4 @@
  
  ##### Present:
 - 💻 Learning practical uses of AI
-- 🏖️ Trying to book summer holidays
 - 🚀 Building <a href="https://i-space.gr" target="__blank">https://i-space.gr</a>
