@@ -4,15 +4,8 @@
 <a href="https://twitter.com/thefrozenvortex">Twitter</a> /
 <a href="https://www.linkedin.com/in/jimfilippou">LinkedIn<a/>
 </h5>
-
----
   
 ##### Work:
 
 - 🏡 Working for https://sportserve.co remotely from Athens, Greece 
 - 🧑‍💼 Mostly using **React**, **Next.js**, **TypeScript**
-
- 
- ##### Present:
-- 💻 Learning practical uses of AI
-- 🚀 Building <a href="https://i-space.gr" target="__blank">https://i-space.gr</a>
