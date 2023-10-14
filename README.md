@@ -1,4 +1,4 @@
-<h4>Hi! I'm Dimitrios, a software engineer <b>passionate</b> about web development and devops</h3>
+Hi! I'm Dimitrios, a software engineer <b>passionate</b> about web development and devops
 
 <h5>
 <a href="https://twitter.com/thefrozenvortex">Twitter</a> /
