@@ -12,5 +12,5 @@ Hi! I'm Dimitrios, a software engineer from Athens, Greece. <b>Passionate</b> ab
   
 ##### Work:
 
-- 🎉 Recently joined @sitecore, working remotely from Athens, Greece 
+- 🎉 Recently joined @Sitecore, working remotely from Athens, Greece 
 - 🧑‍💼 Mostly using **React**, **Next.js**, **TypeScript**
