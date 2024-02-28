@@ -21,17 +21,17 @@ since 2016 and I am currently working as a Senior Software Engineer at Sitecore.
   <tr>
     <td>
       <a href="https://jimfilippou.com/articles/2024/10-tailwind-classes-i-wish-i-found-earlier" target="_blank" rel="noopener noreferrer">
-        <img height="170" src="https://jimfilippou.com/articles/2024/10-tailwind-classes-i-wish-i-found-earlier/opengraph-image.png" />
+        <img height="150" src="https://jimfilippou.com/articles/2024/10-tailwind-classes-i-wish-i-found-earlier/opengraph-image.png" />
       </a>
     </td>
     <td>
       <a href="https://jimfilippou.com/articles/2024/a-comprehensive-guide-to-cloudflare-r2" target="_blank" rel="noopener noreferrer">
-        <img height="170" src="https://jimfilippou.com/articles/2024/a-comprehensive-guide-to-cloudflare-r2/opengraph-image.jpg" />
+        <img height="150" src="https://jimfilippou.com/articles/2024/a-comprehensive-guide-to-cloudflare-r2/opengraph-image.jpg" />
       </a>
     </td>
     <td>
       <a href="https://jimfilippou.com/articles/2024/understanding-monorepos" target="_blank" rel="noopener noreferrer">
-        <img height="170" src="https://jimfilippou.com/articles/2024/a-comprehensive-guide-to-cloudflare-r2/opengraph-image.jpg" />
+        <img height="150" src="https://jimfilippou.com/articles/2024/understanding-monorepos/opengraph-image.jpg" />
       </a>
     </td>
   </tr>
