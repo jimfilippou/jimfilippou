@@ -12,7 +12,7 @@ since 2016 and I am currently working as a Senior Software Engineer at Sitecore.
 - 📖 Writing blog posts on https://jimfilippou.com (please subscribe to my newsletter there)
 - ⚒️ Building a new project, stay tuned!
 
-### Stack:
+#### Stack:
 
 [![Node.js](https://skills.thijs.gg/icons?i=nodejs)](https://nodejs.org/en)
 [![React](https://skills.thijs.gg/icons?i=react)](https://react.dev)
@@ -24,8 +24,6 @@ since 2016 and I am currently working as a Senior Software Engineer at Sitecore.
 [![Bash](https://skills.thijs.gg/icons?i=bash)](https://gnu.org/software/bash)
 [![Cloudflare](https://skills.thijs.gg/icons?i=cloudflare)](https://cloudflare.com)
 [![Docker](https://skills.thijs.gg/icons?i=docker)](https://docker.com)
-[![Git](https://skills.thijs.gg/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skills.thijs.gg/icons?i=github)](https://github.com)
 [![GitHub Actions](https://skills.thijs.gg/icons?i=githubactions)](https://github.com/features/actions)
 [![Linux](https://skills.thijs.gg/icons?i=linux)](https://linux.org)
 [![Markdown](https://skills.thijs.gg/icons?i=md)](https://daringfireball.net/projects/markdown)
