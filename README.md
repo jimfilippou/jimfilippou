@@ -33,33 +33,8 @@ since 2016 and I am currently working as a Senior Software Engineer at Sitecore.
 
 #### My latest posts:
 
-<table>
-  <tr>
-    <td>
-      <a href="https://jimfilippou.com/articles/2024/generating-a-sitemap-with-nextjs" target="_blank" rel="noopener noreferrer">
-        <img height="140" src="https://jimfilippou.com/articles/2024/generating-a-sitemap-with-nextjs/opengraph-image.jpg" />
-      </a>
-    </td>
-    <td>
-      <a href="https://jimfilippou.com/articles/2024/10-tailwind-classes-i-wish-i-found-earlier" target="_blank" rel="noopener noreferrer">
-        <img height="140" src="https://jimfilippou.com/articles/2024/10-tailwind-classes-i-wish-i-found-earlier/opengraph-image.png" />
-      </a>
-    </td>
-    <td>
-      <a href="https://jimfilippou.com/articles/2024/a-comprehensive-guide-to-cloudflare-r2" target="_blank" rel="noopener noreferrer">
-        <img height="140" src="https://jimfilippou.com/articles/2024/a-comprehensive-guide-to-cloudflare-r2/opengraph-image.jpg" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://jimfilippou.com/articles/2024/generating-a-sitemap-with-nextjs" target="_blank" rel="noopener noreferrer">Generating a sitemap for a Next.js application</a>
-    </td>
-    <td>
-      <a href="https://jimfilippou.com/articles/2024/10-tailwind-classes-i-wish-i-found-earlier/" target="_blank" rel="noopener noreferrer">10 Tailwind classes I wish I found earlier</a>
-    </td>
-    <td>
-      <a href="https://jimfilippou.com/articles/2024/a-comprehensive-guide-to-cloudflare-r2/" target="_blank" rel="noopener noreferrer">A comprehensive guide to CloudFlare R2</a>
-    </td>
-  </tr>
-</table>
+- <a href="https://jimfilippou.com/articles/2024/generating-a-sitemap-with-nextjs" target="_blank" rel="noopener noreferrer">Generating a sitemap for a Next.js application</a>
+- <a href="https://jimfilippou.com/articles/2024/a-new-javascript-registry" target="_blank" rel="noopener noreferrer">A new JavaScript registry?</a>
+- <a href="https://jimfilippou.com/articles/2024/replacing-dependabot-with-ncu" target="_blank" rel="noopener noreferrer">Replacing Dependabot With ncu</a>
+- <a href="https://jimfilippou.com/articles/2024/10-tailwind-classes-i-wish-i-found-earlier" target="_blank" rel="noopener noreferrer">10 Tailwind classes I wish I found earlier</a>
+- <a href="https://jimfilippou.com/articles/2024/a-comprehensive-guide-to-cloudflare-r2" target="_blank" rel="noopener noreferrer">A comprehensive guide to CloudFlare R2</a>
