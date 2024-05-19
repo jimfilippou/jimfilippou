@@ -8,10 +8,10 @@ since 2016 and I am currently working as a Senior Software Engineer at Sitecore.
 
 #### Currently:
 
-- 👨‍💻 Building Sitecore Search SDK
-- 📖 Learning AWS
+- 👨‍💻 Building [Sitecore Search SDK](https://www.sitecore.com/products/search).
+- 📖 Preparing for AWS certification.
 - ✍🏻 Writing blog posts on https://jimfilippou.com (please subscribe to my newsletter there)
-- ⚒️ Building a new project, stay tuned!
+- 🏋️ Working out.
 
 #### My latest posts:
 
@@ -19,7 +19,3 @@ since 2016 and I am currently working as a Senior Software Engineer at Sitecore.
 - https://jimfilippou.com/articles/2024/how-to-build-custom-node-js-esm-loader
 - https://jimfilippou.com/articles/2024/you-probably-dont-need-nodemon
 - https://jimfilippou.com/articles/2024/generating-a-sitemap-with-nextjs
-- https://jimfilippou.com/articles/2024/a-new-javascript-registry
-- https://jimfilippou.com/articles/2024/replacing-dependabot-with-ncu
-- https://jimfilippou.com/articles/2024/10-tailwind-classes-i-wish-i-found-earlier
-- https://jimfilippou.com/articles/2024/a-comprehensive-guide-to-cloudflare-r2
