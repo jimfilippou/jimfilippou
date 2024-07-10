@@ -10,7 +10,7 @@ since 2016 and I am currently working as a Senior Software Engineer at [Sitecore
 
 - 👨‍💻 Maintaining & Improving [Sitecore Search SDK](https://www.sitecore.com/products/search).
 - 📖 Preparing for Kubernetes certification.
-- 🦽 Designing & Developing apps for helping wheelchair users https://greenblock.gr along with @StavrosMarinos & @ntogka
+- 🦽 Designing & Developing apps for helping wheelchair users https://greenblock.gr along with [@StavrosMarinos](https://github.com/StavrosMarinos) & [@ntogka](https://github.com/ntogka)
 - ✍🏻 Writing blog posts on https://jimfilippou.com (please subscribe to my newsletter there)
 - 🏋️ Working out.
 
