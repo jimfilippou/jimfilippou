@@ -1,4 +1,4 @@
-Hey! I’m Dimitrios, a software engineer and entrepreneur based in Athens, Greece. I have been working in the software engineering industry
+Hey! I’m Dimitrios, a senior software engineer and entrepreneur based in Athens, Greece. I have been working in the software industry
 since 2016 and I am currently working as a Senior Software Engineer at Sitecore.
 
 <h5>
@@ -8,14 +8,15 @@ since 2016 and I am currently working as a Senior Software Engineer at Sitecore.
 
 #### Currently:
 
-- 👨‍💻 Building [Sitecore Search SDK](https://www.sitecore.com/products/search).
-- 📖 Preparing for AWS certification.
+- 👨‍💻 Maintaining & Improving [Sitecore Search SDK](https://www.sitecore.com/products/search).
+- 📖 Preparing for Kubernetes certification.
 - ✍🏻 Writing blog posts on https://jimfilippou.com (please subscribe to my newsletter there)
 - 🏋️ Working out.
 
 #### My latest posts:
 
+- https://jimfilippou.com/articles/2024/web-speech-api
+- https://jimfilippou.com/articles/2024/file-based-routing-without-next-js
+- https://jimfilippou.com/articles/2024/moving-off-the-edge
 - https://jimfilippou.com/articles/2024/adopting-drizzle-orm-as-my-go-to-orm-for-typescript
 - https://jimfilippou.com/articles/2024/how-to-build-custom-node-js-esm-loader
-- https://jimfilippou.com/articles/2024/you-probably-dont-need-nodemon
-- https://jimfilippou.com/articles/2024/generating-a-sitemap-with-nextjs
