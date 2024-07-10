@@ -1,5 +1,5 @@
-Hey! I’m Dimitrios, a senior software engineer and entrepreneur based in Athens, Greece. I have been working in the software industry
-since 2016 and I am currently working as a Senior Software Engineer at Sitecore.
+Hey! I’m Dimitrios, an engineer and entrepreneur based in Athens, Greece. I have been working in the software industry
+since 2016 and I am currently working as a Senior Software Engineer at [Sitecore](https://sitecore.com/)
 
 <h5>
 <a href="https://www.linkedin.com/in/jimfilippou">LinkedIn<a/> /
