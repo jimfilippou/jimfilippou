@@ -1,23 +1,22 @@
-Hey! I’m Dimitrios, an engineer and entrepreneur based in Athens, Greece. I have been working in the software industry
-since 2016 and I am currently working as a Senior Software Engineer at [Sitecore](https://sitecore.com/)
+### Professional Summary
 
+Experienced software engineer with a strong background in developing robust, scalable solutions. Currently contributing to cutting-edge digital experience platforms at Sitecore. Passionate about leveraging technology to solve complex business challenges.
+
+### Links
 <h5>
-<a href="https://www.linkedin.com/in/jimfilippou">LinkedIn<a/> /
-<a target="__blank" href="https://jimfilippou.com">My website<a/>
+<a href="https://www.linkedin.com/in/jimfilippou">LinkedIn&nbsp;<a/> –
+<a target="__blank" href="https://jimfilippou.com">&nbsp;My website<a/>
 </h5>
 
 #### Currently:
 
-- 👨‍💻 Maintaining & Improving [Sitecore Search SDK](https://www.sitecore.com/products/search).
-- 📖 Preparing for Kubernetes certification.
-- 🦽 Designing & Developing apps for helping wheelchair users https://greenblock.gr along with [@StavrosMarinos](https://github.com/StavrosMarinos) & [@ntogka](https://github.com/ntogka)
+- 👨‍💻 Maintaining & Improving [Sitecore Cloud SDK](https://doc.sitecore.com/xmc/en/developers/sdk/latest/cloud-sdk/sitecore-cloud-sdk-for-javascript.html).
 - ✍🏻 Writing blog posts on https://jimfilippou.com (please subscribe to my newsletter there)
-- 🏋️ Working out.
 
 #### My latest posts:
 
+- https://jimfilippou.com/articles/2024/what-are-symbolic-links
 - https://jimfilippou.com/articles/2024/web-speech-api
 - https://jimfilippou.com/articles/2024/file-based-routing-without-next-js
 - https://jimfilippou.com/articles/2024/moving-off-the-edge
 - https://jimfilippou.com/articles/2024/adopting-drizzle-orm-as-my-go-to-orm-for-typescript
-- https://jimfilippou.com/articles/2024/how-to-build-custom-node-js-esm-loader
