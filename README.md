@@ -15,8 +15,8 @@ Experienced software engineer with a strong background in developing robust, sca
 
 #### My latest posts:
 
+- https://jimfilippou.com/articles/2024/git-patches-intro
 - https://jimfilippou.com/articles/2024/what-are-symbolic-links
 - https://jimfilippou.com/articles/2024/web-speech-api
 - https://jimfilippou.com/articles/2024/file-based-routing-without-next-js
 - https://jimfilippou.com/articles/2024/moving-off-the-edge
-- https://jimfilippou.com/articles/2024/adopting-drizzle-orm-as-my-go-to-orm-for-typescript
