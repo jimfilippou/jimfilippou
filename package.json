@@ -1,0 +1,11 @@
+{
+  "name": "@jimfilippou/readme",
+  "type": "module",
+  "version": "latest",
+  "dependencies": {
+    "@jimfilippou/rerust": "npm:@jsr/jimfilippou__rerust"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  }
+}

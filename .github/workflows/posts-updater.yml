@@ -1,0 +1,46 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Update README
+        run: bun run update.ts
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --exit-code README.md || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Generate commit message
+        if: steps.check_changes.outputs.changes == 'true'
+        id: commit_message
+        run: |
+          echo "message=docs(readme): update latest articles ($(date +%Y-%m-%d))" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --global user.name '${{ github.actor }}'
+          git config --global user.email '${{ github.actor }}@users.noreply.github.com'
+          git add README.md
+          git commit -m "${{ steps.commit_message.outputs.message }}"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
