@@ -1,17 +1,18 @@
 ### Professional Summary
 
-Experienced software engineer with a strong background in developing robust, scalable solutions. Currently contributing to cutting-edge digital experience platforms at Sitecore. Passionate about leveraging technology to solve complex business challenges.
+Experienced software engineer with a strong background in developing robust, scalable solutions. Currently contributing to cutting-edge wind, solar, and energy storage platforms at Powerfactors. Passionate about leveraging technology to solve complex business challenges.
 
-### Links
-<h5>
-<a href="https://www.linkedin.com/in/jimfilippou">LinkedIn&nbsp;<a/> –
-<a target="__blank" href="https://jimfilippou.com">&nbsp;My website<a/>
-</h5>
+### My links
+
+- [My LinkedIn profile](https://www.linkedin.com/in/jimfilippou)
+- [My website](https://jimfilippou.com)
+- [My blog](https://jimfilippou.com/articles)
 
 #### Currently:
 
-- 👨‍💻 Maintaining & Improving [Sitecore Cloud SDK](https://doc.sitecore.com/xmc/en/developers/sdk/latest/cloud-sdk/sitecore-cloud-sdk-for-javascript.html).
-- ✍🏻 Writing blog posts on https://jimfilippou.com (please subscribe to my newsletter there)
+- 👨‍💻 Maintaining & Improving wind, solar, and energy storage platforms at Powerfactors.
+- ✍🏻 Writing blog posts on https://jimfilippou.com.
+- 🏋 Lifting heavy weights.
 
 #### My latest posts:
 
