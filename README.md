@@ -15,8 +15,8 @@ Experienced software engineer with a strong background in developing robust, sca
 
 #### My latest posts:
 
-- https://jimfilippou.com/articles/2024/git-patches-intro
-- https://jimfilippou.com/articles/2024/what-are-symbolic-links
-- https://jimfilippou.com/articles/2024/web-speech-api
-- https://jimfilippou.com/articles/2024/file-based-routing-without-next-js
-- https://jimfilippou.com/articles/2024/moving-off-the-edge
+- [PostCSS with Tailwind and Gzip](https://jimfilippou.com/articles/2025/tailwind-and-gzip)
+- [Git patches introduction](https://jimfilippou.com/articles/2024/git-patches-intro)
+- [What are symbolic links?](https://jimfilippou.com/articles/2024/what-are-symbolic-links)
+- [Web speech API](https://jimfilippou.com/articles/2024/web-speech-api)
+- [File-based routing, without Next.js?](https://jimfilippou.com/articles/2024/file-based-routing-without-next-js)
