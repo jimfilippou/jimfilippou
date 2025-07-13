@@ -16,8 +16,8 @@ Experienced software engineer with a strong background in developing robust, sca
 
 #### My latest posts:
 
+- [Concurrently NPM package explained](https://jimfilippou.com/articles/2025/concurrently-npm-package-explained)
+- [When images disappear from the network tab](https://jimfilippou.com/articles/2025/when-images-dissapear-from-network-tab)
 - [PostCSS with Tailwind and Gzip](https://jimfilippou.com/articles/2025/tailwind-and-gzip)
 - [Git patches introduction](https://jimfilippou.com/articles/2024/git-patches-intro)
 - [What are symbolic links?](https://jimfilippou.com/articles/2024/what-are-symbolic-links)
-- [Web speech API](https://jimfilippou.com/articles/2024/web-speech-api)
-- [File-based routing, without Next.js?](https://jimfilippou.com/articles/2024/file-based-routing-without-next-js)
