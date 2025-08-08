@@ -16,8 +16,8 @@ Experienced software engineer with a strong background in developing robust, sca
 
 #### My latest posts:
 
+- [NestJS Schedule Module Multiple Registration Problem](https://jimfilippou.com/articles/2025/nestjs-schedule-module-multiple-registration-problem)
 - [JavaScript sourcemaps explained](https://jimfilippou.com/articles/2025/js-sourcemaps-explained)
 - [Concurrently NPM package explained](https://jimfilippou.com/articles/2025/concurrently-npm-package-explained)
 - [When images disappear from the network tab](https://jimfilippou.com/articles/2025/when-images-dissapear-from-network-tab)
 - [PostCSS with Tailwind and Gzip](https://jimfilippou.com/articles/2025/tailwind-and-gzip)
-- [Git patches introduction](https://jimfilippou.com/articles/2024/git-patches-intro)
