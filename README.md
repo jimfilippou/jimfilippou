@@ -1,18 +1,20 @@
 ### Professional Summary
 
-Experienced software engineer with a strong background in developing robust, scalable solutions. Currently contributing to cutting-edge wind, solar, and energy storage platforms at Powerfactors. Passionate about leveraging technology to solve complex business challenges.
+Experienced software engineer with a strong background in developing robust, scalable end-to-end solutions. Currently contributing to wind, solar, and energy storage platforms at [Powerfactors](https://www.powerfactors.com/). Passionate about leveraging technology to solve complex business challenges.
 
-### My links
+### Links
 
 - [My LinkedIn profile](https://www.linkedin.com/in/jimfilippou)
 - [My website](https://jimfilippou.com)
 - [My blog](https://jimfilippou.com/articles)
+- [The In Action App](https://inaction.gr)
 
 #### Currently:
 
 - 👨‍💻 Maintaining & Improving wind, solar, and energy storage platforms at Powerfactors.
+- 🎯 Building the leading outdoor & indoor experiences app [In Action](https://inaction.gr).
 - ✍🏻 Writing blog posts on https://jimfilippou.com.
-- 🏋 Lifting heavy weights.
+- 🏋 Lifting not-so heavy weights.
 
 #### My latest posts:
 
