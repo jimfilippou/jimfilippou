@@ -18,8 +18,8 @@ Experienced software engineer with a strong background in developing robust, sca
 
 #### My latest posts:
 
+- [Why Google Maps Shows Beige Screen With Google Logo On The Bottom Left Corner?](https://jimfilippou.com/articles/2025/why-google-maps-shows-beige-screen)
 - [The NPM Supply Chain Attack That... Stole Crypto?](https://jimfilippou.com/articles/2025/npm-supply-chain-attack-sept-2025)
 - [NestJS Schedule Module Multiple Registration Problem](https://jimfilippou.com/articles/2025/nestjs-schedule-module-multiple-registration-problem)
 - [JavaScript sourcemaps explained](https://jimfilippou.com/articles/2025/js-sourcemaps-explained)
 - [Concurrently NPM package explained](https://jimfilippou.com/articles/2025/concurrently-npm-package-explained)
-- [When images disappear from the network tab](https://jimfilippou.com/articles/2025/when-images-dissapear-from-network-tab)
