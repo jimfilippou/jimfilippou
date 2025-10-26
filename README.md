@@ -11,7 +11,7 @@ Passionate about leveraging technology to solve complex business challenges.
 
 #### Currently:
 
-- 👨‍💻 Soon will join @hellofresh 🎉
+- 👨‍💻 Soon will join [@hellofresh](https://github.com/hellofresh) 🎉
 - ✍🏻 Writing blog posts on https://jimfilippou.com.
 - 🏋 Lifting not-so heavy weights.
 
