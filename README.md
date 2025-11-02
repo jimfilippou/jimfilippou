@@ -17,8 +17,8 @@ Passionate about leveraging technology to solve complex business challenges.
 
 #### My latest posts:
 
-- [Why Google Maps Shows Beige Screen With Google Logo On The Bottom Left Corner?](https://jimfilippou.com/articles/2025/why-google-maps-shows-beige-screen)
+- [Vibe coding is dying but AI is here to stay](https://jimfilippou.com/articles/2025/vibe-coding-is-dying-but-ai-is-here-to-stay)
+- [The Silent Google Maps Beige Screen Bug in React Native](https://jimfilippou.com/articles/2025/why-google-maps-shows-beige-screen)
 - [The NPM Supply Chain Attack That... Stole Crypto?](https://jimfilippou.com/articles/2025/npm-supply-chain-attack-sept-2025)
 - [NestJS Schedule Module Multiple Registration Problem](https://jimfilippou.com/articles/2025/nestjs-schedule-module-multiple-registration-problem)
 - [JavaScript sourcemaps explained](https://jimfilippou.com/articles/2025/js-sourcemaps-explained)
-- [Concurrently NPM package explained](https://jimfilippou.com/articles/2025/concurrently-npm-package-explained)
