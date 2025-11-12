@@ -11,9 +11,8 @@ Passionate about leveraging technology to solve complex business challenges.
 
 #### Currently:
 
-- 👨‍💻 Soon will join [@HelloFresh](https://github.com/hellofresh) 🎉
+- 👨‍💻 Currently offering B2B development & consulting services. 
 - ✍🏻 Writing blog posts on https://jimfilippou.com.
-- 🏋 Lifting not-so heavy weights.
 
 #### My latest posts:
 
