@@ -16,8 +16,8 @@ Passionate about leveraging technology to solve complex business challenges.
 
 #### My latest posts:
 
+- [How a Database Permission Change Took Down the Internet](https://jimfilippou.com/articles/2025/cloudflare-outage-november-2025)
+- [Why Engineers Give Bad Advice to Startups](https://jimfilippou.com/articles/2025/why-engineers-give-bad-advice-to-startups)
 - [Vibe coding is dying but AI is here to stay](https://jimfilippou.com/articles/2025/vibe-coding-is-dying-but-ai-is-here-to-stay)
 - [The Silent Google Maps Beige Screen Bug in React Native](https://jimfilippou.com/articles/2025/why-google-maps-shows-beige-screen)
 - [The NPM Supply Chain Attack That... Stole Crypto?](https://jimfilippou.com/articles/2025/npm-supply-chain-attack-sept-2025)
-- [NestJS Schedule Module Multiple Registration Problem](https://jimfilippou.com/articles/2025/nestjs-schedule-module-multiple-registration-problem)
-- [JavaScript sourcemaps explained](https://jimfilippou.com/articles/2025/js-sourcemaps-explained)
